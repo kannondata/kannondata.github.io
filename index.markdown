@@ -1,10 +1,10 @@
 ---
-title: Home - Data Integration and Understanding for Your Business
+title: Data Integration and Understanding for Your Business
 permalink: /
 layout: home
 ---
 
-# Welcome to Kannon data
+# Welcome to Kannon Data
 
 Kannon Data is a SaaS company that helps you integrate, analyze, and understand your data.
 
